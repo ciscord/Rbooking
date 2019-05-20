@@ -1,0 +1,19 @@
+{
+	"name" : "Withdrawals",
+	"description" : "By enabling this, user can withdraw the amount from site account to his personal (bank, PayPal etc.,) account.",
+	"author" : "Ivica",
+	"authorEmail" : "ivicadevelopermarinkovic@gmail.com",
+	"authorUrl" : "http://www.Ivica.com",
+	"settings" : "true",
+	"parent": "1.Plugins For All Modules.Children.Payments.Children.Wallet.Children",
+	"dependencies": {
+		"plugins" : {
+			"Wallet" : "Wallet"
+		}
+	},
+	"icon" : "signout",
+	"disable" : 0,
+	"delete" : 0,
+	"module_id": "",
+	"module_hash": ""
+}
